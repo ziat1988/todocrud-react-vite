@@ -1,5 +1,5 @@
 # todocrud-react-vite
-sample todo crud 
+sample todo crud with vite 
 
 ### Feature:
 - Insert/Update/Delete Todo with title and description
